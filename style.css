@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.i6eufa9oYM0Yx1tv8s10igHaE8?pid=Api&rs=1");
+    background-size: cover;
+
+}
+#mycanvas{
+    background-color: white;
+    border: 10px ridge greenyellow;
+}
